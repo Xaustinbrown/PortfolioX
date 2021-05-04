@@ -1,7 +1,11 @@
+a{
+    color: cornflowerblue;
+}
+
 h1{
 
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   color:darkblue;
+   color: cornflowerblue;
    letter-spacing: 6;
    font-size: 40px;
 }
@@ -18,8 +22,8 @@ h3{
 
  body{
    
-    background-image: url("https://images.squarespace-cdn.com/content/v1/5533f2d2e4b097f555434f8f/1594067630608-G78GAT4CHE3DI3SOENEU/ke17ZwdGBToddI8pDm48kOr6fpXnNv0C2gTxB2n56yp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZ2r1pl2YpRZws_c0qFWLn1c8OKzY-T331mDrBnHYXHO0mlp7cGNipU5tTKIxUWi9Q/FullSizeRender%2B%281%29.jpg?format=1500w"); 
-    background-repeat: url("https://images.squarespace-cdn.com/content/v1/5533f2d2e4b097f555434f8f/1594067630608-G78GAT4CHE3DI3SOENEU/ke17ZwdGBToddI8pDm48kOr6fpXnNv0C2gTxB2n56yp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZ2r1pl2YpRZws_c0qFWLn1c8OKzY-T331mDrBnHYXHO0mlp7cGNipU5tTKIxUWi9Q/FullSizeRender%2B%281%29.jpg?format=1500w"); 
+    background-image: url("https://img.17qq.com/images/gmmmdgnndcv.jpeg"); 
+    background-repeat: url("https://img.17qq.com/images/gmmmdgnndcv.jpeg"); 
     background-size: cover;
  
 }
